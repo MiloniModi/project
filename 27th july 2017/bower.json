@@ -1,0 +1,21 @@
+{
+  "name": "27th july 2017",
+  "authors": [
+    "MiloniModi <miloni567@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.5",
+    "angular-ui-router": "^1.0.5"
+  }
+}
